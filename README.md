@@ -2,7 +2,7 @@
 
 Um sistema operacional acadêmico **32-bit** desenvolvido como projeto educacional, baseado no kernel do [Terminal Root OS](https://github.com/terroo/terminalroot-os). O DranuxSO implementa um terminal interativo com comandos básicos e interface personalizada.
 
-![DranuxSO - Sistema Operacional Acadêmico](./dranuxso-screenshot.png)
+[DranuxSO - Sistema Operacional Acadêmico]
 
 ## Sobre o Projeto
 
